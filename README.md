@@ -30,10 +30,4 @@ Welcome to **Visualise with Gemini**, a web-based tool that allows you to genera
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Created with ❤️ by Indrajeet
